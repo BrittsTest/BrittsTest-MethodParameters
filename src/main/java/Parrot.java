@@ -15,7 +15,7 @@ public class Parrot {
      * answer. Please note that many of these will not compile, as evidenced by a "red line" under your code.
      *
      * return "hello"; | return String "hello";
-     * return hello;   | return String hello;
+     * return hello;   | return String hello;  
      * return "polly"; | return String "polly";
      * return polly;   | return String polly;
      * return "text";  | return String "text";
